@@ -1,0 +1,28 @@
+name: architecturephotography
+favicon: null
+layout_spectrum: 0.8288292596116662
+typography_spectrum: 0.3939306754618883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3e343c'
+    - '#aca498'
+    - '#131217'
+    - '#f4f8f9'
+    - '#0a5883'
+  brandStrength: 0.4375
+  lightness: 0.1113184338901192
+  saturation: 0.11695653526112437
+  rhythmicContrast: 0.9370536466594785
+purpose: []
